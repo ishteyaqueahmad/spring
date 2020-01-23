@@ -5,8 +5,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Student Confirmation</head>
-</title>
+<title>Student Confirmation</title></head>
+
 <body>
 The Student is Confirmd:${student.firstName} ${student.lastName} 
 <br><br>
